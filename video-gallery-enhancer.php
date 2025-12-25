@@ -220,3 +220,4 @@ function vge_enqueue_assets() {
     );
 }
 
+
